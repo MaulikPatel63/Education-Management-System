@@ -45,12 +45,12 @@ app.use("/", require("./routes/index.js"));
 app.get("/", (req, res) => {
   res.send(`
     <center>
-        <h1>Welcome to the EXPENSE TRACKER APPLICATION!</h1>
+        <h1>Welcome to the Education-Management-System!</h1>
         <br>
         <p>
-            Get EXPENSE TRACKER APPLICATION: 
-        <a href="https://github.com/MaulikPatel63/EXPENSE_TRACKER_APPLICATION.git" target="_blank">
-            Repository: EXPENSE TRACKER APPLICATION
+            Get Education-Management-System: 
+        <a href="https://github.com/MaulikPatel63/Education-Management-System.git" target="_blank">
+            Repository: Education-Management-System
         </a>
         </p>
     </center>
